@@ -42,10 +42,6 @@ user_pref("privacy.clearOnShutdown_v2.cookiesAndStorage", false);
 // Disable beacon studies:
 user_pref("beacon.enabled", false);
 
-// Enable "Do Not Track":
-user_pref("privacy.donottrackheader.enabled", true);
-user_pref("privacy.donottrackheader.value", 1);
-
 // Disable signin and autofill info
 user_pref("signon.rememberSignons", false);
 user_pref("browser.formfill.enable", false);
